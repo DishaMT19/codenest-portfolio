@@ -151,8 +151,6 @@ Looking to collaborate?
 
 **© 2026 Codenest Web Solutions**
 
-Icons provided by [Font Awesome](https://fontawesome.com/)
-Fonts from [Google Fonts](https://fonts.google.com/)
 
 ---
 
